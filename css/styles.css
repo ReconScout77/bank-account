@@ -1,0 +1,13 @@
+.well {
+  background-color: #cee2fe;
+}
+
+.well-primary {
+  background-color: #ffffff;
+  width: 30%;
+  align-items: center;
+  margin-left: 35%;
+}
+.well-balance {
+  text-align: center;
+}
